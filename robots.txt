@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tudominio.com/sitemap.xml
+
+
+para bloquear tu carpeta privada
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+Sitemap: https://tudominio.com/sitemap.xml
